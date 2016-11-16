@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793157808506",
+    "firebase_url": "https://suapapi-7aff2.firebaseio.com",
+    "project_id": "suapapi-7aff2",
+    "storage_bucket": "suapapi-7aff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793157808506:android:46bfaa3831f4a5f3",
+        "android_client_info": {
+          "package_name": "com.example.jbull.suapandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793157808506-oa0cbck65cftk9069j52rr7qp8bhm0e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jbull.suapandroid",
+            "certificate_hash": "94E488E1D6EEE0ECC18ED2F966184D9AB65CB3E9"
+          }
+        },
+        {
+          "client_id": "793157808506-k850fgavfdrbms7fjr60h9j1ilqjgue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQWzzu58xBgcWsNTt2KpecgKRB2oXb6vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793157808506-k850fgavfdrbms7fjr60h9j1ilqjgue7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
